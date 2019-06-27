@@ -1,0 +1,32 @@
+[01-Jun-2019 04:35:04 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[01-Jun-2019 04:37:43 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[01-Jun-2019 04:40:58 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[01-Jun-2019 04:43:13 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[01-Jun-2019 04:44:03 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[01-Jun-2019 04:49:58 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 06:56:00 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 07:28:17 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 09:25:59 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 09:30:19 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 09:30:43 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 09:32:04 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 09:33:02 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[02-Jun-2019 09:33:24 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 29
+[05-Jun-2019 02:16:24 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'fastagas_mandenno'@'localhost' (using password: YES)' in /home2/fastagas/public_html/swahilibox/index.php:199
+Stack trace:
+#0 /home2/fastagas/public_html/swahilibox/index.php(199): PDO->__construct('mysql:host=loca...', 'fastagas_manden...', 'mandenno@123')
+#1 {main}
+  thrown in /home2/fastagas/public_html/swahilibox/index.php on line 199
+[05-Jun-2019 02:17:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'fastagas_mandenno'@'localhost' (using password: YES)' in /home2/fastagas/public_html/swahilibox/index.php:199
+Stack trace:
+#0 /home2/fastagas/public_html/swahilibox/index.php(199): PDO->__construct('mysql:host=loca...', 'fastagas_manden...', 'mandenno@123')
+#1 {main}
+  thrown in /home2/fastagas/public_html/swahilibox/index.php on line 199
+[05-Jun-2019 02:17:58 America/Chicago] PHP Fatal error:  Call to a member function rowcount() on boolean in /home2/fastagas/public_html/swahilibox/index.php on line 209
+[12-Jun-2019 07:55:13 America/Chicago] PHP Fatal error:  Call to undefined function ucword() in /home2/fastagas/public_html/swahilibox/my_account.php on line 23
+[13-Jun-2019 00:39:30 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home2/fastagas/public_html/swahilibox/index.php on line 165
+[13-Jun-2019 01:09:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 49
+[13-Jun-2019 01:14:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 49
+[13-Jun-2019 01:41:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 49
+[13-Jun-2019 01:50:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 49
+[13-Jun-2019 02:01:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fastagas/public_html/swahilibox/validate_qr.php on line 49
